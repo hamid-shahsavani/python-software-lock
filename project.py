@@ -23,7 +23,7 @@ license = md5(code.encode('utf-8')).hexdigest()
 
 def main():
 	print('hello world!')
-
+	input('')
 try:
     get('https://www.google.com/')
     if open(home + 'license','r').read() == license:
@@ -42,5 +42,7 @@ try:
         else:
                 clear_screen()
                 print('error , worng password ...')
+		input('')
 except ConnectionError:
     print('error , connect to network ...')
+    input('')
