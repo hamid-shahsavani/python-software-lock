@@ -18,7 +18,7 @@
 *a cross platform sample software lock for python applications ...*
 
 ---
-## *how to use [tutorial video](https://www.youtube.com/watch?v=Taw3evgfgd4)*
+## *how to use [tutorial video](https://www.youtube.com/watch?v=4mEXN62QC40)*
 
 *1. git clone https://github.com/sys113/python-software-lock/*<br />
 *2. cd python-software-lock*<br />
