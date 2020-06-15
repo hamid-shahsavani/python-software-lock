@@ -1,0 +1,37 @@
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/sys113/python-software-lock/master/python-software-lock.png">
+</p>
+
+---
+<div align="center">
+  
+![](https://img.shields.io/github/stars/SYS113/python-software-lock.svg)
+![](https://img.shields.io/badge/language-python-orange.svg)
+![](https://img.shields.io/github/forks/SYS113/python-software-lock.svg)
+![](https://img.shields.io/github/release/SYS113/python-software-lock.svg)
+![](https://img.shields.io/github/issues/SYS113/python-software-lock.svg)
+![](https://img.shields.io/badge/license-MIT-informational.svg)
+</div>
+
+---
+## *what is <ins>python-software-lock</ins>*
+#### *a cross platform sample software lock for python applications ...*
+
+---
+## *copyright*
+*copyright <ins>SYS113</ins> - <ins>2019</ins>.*
+
+---
+## *license* 
+*<ins>MIT</ins> license , please see <ins>LICENSE</ins> file.*
+
+---
+## *donate* 
++ *for <ins>iranian</ins> users &nbsp; :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ins>  id pay </ins> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://idpay.ir/sys113*
++ *for <ins>global</ins> users &nbsp; : &nbsp;<ins>BTC wallet id</ins>&nbsp; - &nbsp; 149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw*
+---
+## *contact me* 
+* *[email](mailto:051.SYS113@gmail.com)*
+* *[telegram](https://t.me/SYS113/)*
+* *[instagram](https://instagram.com/sys113/)*
+
