@@ -23,6 +23,7 @@
 *2. cd python-software-lock*<br />
 *3. python3 -m pip install -r requirements*<br />
 *4. edit project.py and paste project code to main function [line 27]*
+
 *5. convert project.py to project.exe by pyinstaller -> pyinstaller.exe --onefile project.py*
 *6. run project.exe*
 
