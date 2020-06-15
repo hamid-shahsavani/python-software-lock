@@ -20,7 +20,7 @@
 ---
 ## *how to use*
 
-* ![tutorial video](https://www.youtube.com/watch?v=4mEXN62QC40)
+* ![tutorial video](https://bit.ly/37zhVWL)
 
 *1. git clone https://github.com/sys113/python-software-lock/*<br />
 *2. cd python-software-lock*<br />
