@@ -31,6 +31,11 @@
 *1. open project.exe and copy code*<br />
 *2. open license.py and put code and press enter key*
 
+---
+## *tips*
+*1. this method is not very secure ...*
+*2. this method depends on the mac address, so the user must be connected to the internet ...*
+*3. you can also use this method with a little creativity in gui programs ...*
 
 ---
 ## *copyright*
