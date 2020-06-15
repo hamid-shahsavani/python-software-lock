@@ -22,12 +22,12 @@
 *1. git clone https://github.com/sys113/python-software-lock/*<br />
 *2. cd python-software-lock*<br />
 *3. python3 -m pip install -r requirements*<br />
-*4. edit project.py and paste project code to main function*
-*5. convert project.py to project.exe by pyinstaller -> pyinstaller.exe --onefile project.py*
+*4. edit project.py and paste project code to main function [line 27]*<br />
+*5. convert project.py to project.exe by pyinstaller -> pyinstaller.exe --onefile project.py*<br />
 *6. run project.exe*
 
 ## *get license for python project*
-*1. open project.exe and copy code*
+*1. open project.exe and copy code*<br />
 *2. open license.py and put code and press enter key*
 
 
