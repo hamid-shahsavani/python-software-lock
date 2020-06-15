@@ -26,7 +26,8 @@
 *5. convert project.py to project.exe by pyinstaller -> pyinstaller.exe --onefile project.py*<br />
 *6. run project.exe*
 
-## *get license for python project*
+---
+## *get <ins>license</ins> for <ins>python project</ins>*
 *1. open project.exe and copy code*<br />
 *2. open license.py and put code and press enter key*
 
