@@ -24,7 +24,7 @@ license = md5(code.encode('utf-8')).hexdigest()
 # PROJECT SOURCE CODE ...
 
 def main():
-	print('hello world!')
+	print('Hello World! \n')
 	input('')
 try:
 	get('https://www.google.com/')
@@ -43,8 +43,8 @@ try:
 				main()
 		else:
 				clear_screen()
-				print('error , worng password ...')
+				print('error, \nWrong password ...')
 		input('')
 except ConnectionError:
-	print('error , connect to network ...')
+	print('error, \nConnect to network ...')
 	input('')
